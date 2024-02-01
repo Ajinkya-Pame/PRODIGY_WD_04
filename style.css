@@ -1,0 +1,71 @@
+.heading{
+    display: flex;
+    background-color:#FCF8E8 ;
+    padding-top: 50px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 650px;
+    width: 100%;
+    margin-left: 0;
+}
+
+/* .tree1{
+    position: absolute;
+    top: 40px;
+    right: auto;
+    height: 150px;
+} */
+
+/* .tree2{
+    position: absolute;
+    bottom: 80px;
+    left: auto;
+    height: 150px;
+} */
+
+#h1{
+    
+    font-size: 5.625rem;
+    margin: 0px auto 0 auto;
+    font-family: "Sacramento",cursive;
+
+}
+
+p{
+    font-size: 40px;
+    text-align: center;
+    color:#B31312;
+    
+}
+
+h1{
+    padding-bottom: 15px;
+}
+
+.middle-part{
+    background-color: #FCF8E8;
+    color: #DF7861;
+    padding: 0%;
+}
+
+.Skills{
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #ECDFC8;
+}
+
+.About{
+    display: flex;
+    background-color: #DF7861;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+#a{
+    color:azure;
+    text-decoration: none;
+}
